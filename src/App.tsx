@@ -4,7 +4,6 @@ import Hangman from "./components/Hangman/Hangman";
 import Letters from "./components/Letters/Letters";
 import Result from "./components/Result/Result";
 import UsedLetters from "./components/UsedLetters/UsedLetters";
-
 function App() {
   return (
     <>
